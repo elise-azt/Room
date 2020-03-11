@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Assessment1",
+"dataUrl": "FirtsAssessment_EliseWGL.data.unityweb",
+"wasmCodeUrl": "FirtsAssessment_EliseWGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "FirtsAssessment_EliseWGL.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
